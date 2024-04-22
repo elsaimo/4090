@@ -1,6 +1,6 @@
 name: hello-world
 on: [push, pull_request]
-name: Test
+name: test
 jobs:
   test:
     strategy:
