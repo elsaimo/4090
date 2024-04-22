@@ -4,7 +4,7 @@ package main
 import (
 	"log"
 
-	"github.com/elsaimo/github-action/tree/main/microservice"
+	"github.com/elsaimo/github-action/microservice"
 )
 
 func main() {
